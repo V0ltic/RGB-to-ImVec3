@@ -23,4 +23,6 @@ npm i
 node . [R] [G] [B]
 ```
 
+**Use convert.js instead of index if you don't want to install modules.**
+
 NOTE: Change the "[R] [G] [B]" values to your colours.
