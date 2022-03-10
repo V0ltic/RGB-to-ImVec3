@@ -23,13 +23,6 @@ npm i
 node . [R] [G] [B]
 ```
 
-**Using compiled version:**
-```
-Open a cmd in the same folder you put the files
-
-convert [R] [G] [B]
-```
-
 **Use convert.js instead of index if you don't want to install modules.**
 
 NOTE: Change the "[R] [G] [B]" values to your colours.
